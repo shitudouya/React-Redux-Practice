@@ -1,0 +1,25 @@
+body {
+  min-width: 750px;
+}
+.box {
+  width: 600px;
+  margin: 60px auto;
+}
+.box h3 {
+  font-size: 20px;
+  text-align: center;
+  line-height: 50px;
+}
+.add_btn {
+  text-align: center;
+}
+.add_btn button {
+  margin: 20px;
+}
+.btn-link.delete {
+  color: #d9534f;
+  padding: 0;
+}
+.btn-link.delete:hover {
+  color: #d9534f;
+}
