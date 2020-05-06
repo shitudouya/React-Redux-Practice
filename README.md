@@ -1,11 +1,11 @@
-### React-Redux-Practice
+## React-Redux-Practice
 
 **整合redux+react-redux+redux-devtools-extension+redux-logger+redux-persist+redux-thunk小案例**
 
-#### install
+### Install
 
 `npm i`
 
-#### run
+### Run
 
 `npm start`
